@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Factorizer {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        //user Input
         int count = 0;
         int perfectNumber = 0;
         System.out.print("What number would you like to factor? ");
